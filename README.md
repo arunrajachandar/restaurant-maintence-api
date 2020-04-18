@@ -38,7 +38,7 @@ The Restaurant APIs will allow users to:
   - price - Integer, required
   - menu_id - Integer, foreign key, required
   
-  Deployed on heroku, use for the root <a>https://secure-reaches-80892.herokuapp.com/</a>
+  Deployed on heroku, use for the root route <a>https://secure-reaches-80892.herokuapp.com/</a>
 
 ### Route Paths and Functionality
 
